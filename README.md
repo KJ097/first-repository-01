@@ -1,3 +1,3 @@
 #First Repository
 
-CSS got so much better
+HTML and CSS got so much fun
